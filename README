@@ -1,2 +1,2 @@
-1. 中断打开在echoc.c interrupt_install把注释去掉即可，这while的uipif.c不必开中断
-2. Fix uip_buf bug
+RT-Thread-1.1.0 run on or1200, and support tcp/ip, shell ui.
+-------------------------------------------------------------------------------
